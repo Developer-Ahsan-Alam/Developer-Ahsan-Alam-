@@ -1,0 +1,17 @@
+@media screen and (max-width: 800px) {
+    .header{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .product-table{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
+}
